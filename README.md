@@ -1,7 +1,5 @@
 # John Lander
 
-![Preview Image](PreviewImage.jpg)
+![screenshot](screenshot.jpg)
 
--- John - created by Andrew Hussie
--- Music and Sound - by Spencer Littrel
 
