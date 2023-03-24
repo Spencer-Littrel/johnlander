@@ -1,5 +1,7 @@
 # John Lander
-John - created by Andrew Hussie
-Music and Sounds - created by Spencer Littrel
 
-![PreviewImage](PreviewImage.jpg)
+John Egbert - created by Andrew Hussie
+Music and Sound - created by Spencer Littrel
+
+![Preview Image](PreviewImage.jpg)
+
